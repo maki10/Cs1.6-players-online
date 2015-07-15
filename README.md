@@ -1,3 +1,3 @@
-# Cs1.6-players-online
-Online players, score, time
+# Cs1.6 players online
+Online players, score, time, hostname
  
